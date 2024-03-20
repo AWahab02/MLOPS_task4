@@ -10,5 +10,5 @@
 # Display of the Flask Application:
 ![image](https://github.com/AWahab02/MLOPS_task4/assets/114500718/5cd4c2c9-3dfb-4f4f-9462-a29d1998216b)
 
-Image in Docker Desktop:	
+# Image in Docker Desktop:	
 ![image](https://github.com/AWahab02/MLOPS_task4/assets/114500718/cfc5604d-c5a5-4497-9fea-77d3d1982b44)
